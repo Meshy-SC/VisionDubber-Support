@@ -53,7 +53,7 @@ VisionDubber to imitate someone without their consent.
 **What is free, and what does VisionDubber Pro add?**
 Free: 10 minutes of dubbed video every calendar month, with every feature. A video counts when its dub finishes,
 once for each language. Editing lines, new takes, dubbing the same video again and every export are free.
-VisionDubber Pro removes the limit: monthly, yearly (with a 3-day free trial the first time), or a one-time lifetime
+VisionDubber Pro removes the limit: monthly, yearly, or a one-time lifetime
 purchase. Prices are shown in the app before you buy.
 
 **I bought Pro on another Mac, or reinstalled VisionDubber.**

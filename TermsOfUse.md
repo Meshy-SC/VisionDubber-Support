@@ -27,8 +27,6 @@ dub before you publish it. You are responsible for how you use what VisionDubber
   A subscription renews automatically, at the price shown in the app, unless you cancel it at least 24 hours before
   the end of the current period. Manage or cancel it in the App Store: your name, then Account Settings →
   Subscriptions.
-- **Free trial.** The yearly plan starts with a 3-day free trial the first time you subscribe. The yearly price
-  is charged when the trial ends unless you cancel before then. The monthly and lifetime plans have no trial.
 - **Lifetime.** A one-time purchase with no renewal.
 - **Refunds** are handled by Apple: https://reportaproblem.apple.com
 
