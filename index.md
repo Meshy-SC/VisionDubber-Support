@@ -62,3 +62,6 @@ Open the App Store, click your name, then Account Settings → Subscriptions →
 
 **Where are the licences of the AI models?**
 Settings → Acknowledgements.
+
+**Where are the terms of use and the privacy policy?**
+[Terms of Use](TermsOfUse) and [Privacy Policy](PrivacyPolicy).
