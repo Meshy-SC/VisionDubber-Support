@@ -4,9 +4,9 @@
 
 ## Getting started
 
-1. Open VisionDubber. The first time, it downloads its AI models (about 25 GB; the exact size is shown before the
+1. Open VisionDubber. The first time, it downloads its AI models (about 28 GB; the exact size is shown before the
    download starts). Keep the Mac on Wi-Fi and plugged in.
-2. Click **New Dub**, choose a video, and choose the language to dub into.
+2. Click **New Dub** and choose a video. It is dubbed into English.
 3. Confirm that you own the video or have permission from everyone whose voice is in it, then start. You can keep
    using the Mac; the dub continues in the background of the app.
 4. When it finishes, play the dub, correct any line in the editor, and use **Export** for the video, the audio or
@@ -23,7 +23,7 @@ It depends on the Mac and the video. Settings shows the estimate for your Mac, a
 speed after its first dub. A one-minute clip is the quickest way to try it.
 
 **How much disk space do I need?**
-The models take about 25 GB. Each project takes about 1.5 GB for every 10 minutes of video. VisionDubber tells
+The models take about 28 GB. Each project takes about 1.5 GB for every 10 minutes of video. VisionDubber tells
 you how much is missing before a dub starts. Delete a project in the app to get its space back.
 
 **The model download failed.**
@@ -34,7 +34,10 @@ disk in Settings → Models.
 Open the project, select the line, and edit its text or its speaker; VisionDubber voices that line again.
 
 **Which languages can I dub into?**
-30 languages. The **New Dub** sheet lists them under *Dub into*; some have a choice of region.
+English, American or British. The video can be in English or in 29 other languages: Arabic, Cantonese, Chinese,
+Czech, Danish, Dutch, Filipino, Finnish, French, German, Greek, Hindi, Hungarian, Indonesian, Italian, Japanese,
+Korean, Macedonian, Malay, Persian, Polish, Portuguese, Romanian, Russian, Spanish, Swedish, Thai, Turkish and
+Vietnamese.
 
 **Does my video leave my Mac?**
 No. Everything runs on your Mac. See the [privacy policy](PrivacyPolicy).

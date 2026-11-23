@@ -2,7 +2,7 @@
 
 **Last updated:** 23 November 2026
 
-VisionDubber is a dubbing app for the Mac, made by Meshy SC. It dubs your videos into other languages on your Mac.
+VisionDubber is a dubbing app for the Mac, made by Meshy SC. It dubs your videos into English on your Mac.
 Your videos, the voices in them and the dubs never leave your Mac.
 
 ## What we collect
@@ -49,10 +49,9 @@ policy applies to purchases: https://www.apple.com/legal/privacy/
 ## Network use
 
 VisionDubber connects to the internet only to check VisionDubber Pro with the App Store and to download its AI
-models. In this version the models are downloaded from Hugging Face (huggingface.co), a model hosting service. It
-is a plain file download: Hugging Face receives what any web server receives for a download, such as your IP
-address and the name of the file, and nothing about you or your videos. Hugging Face's privacy policy:
-https://huggingface.co/privacy
+models. The models are hosted by Apple and downloaded through the App Store, like the app itself, and only after
+you have seen their size and agreed. Apple's privacy policy applies to those downloads:
+https://www.apple.com/legal/privacy/ . Dubbing itself never uses the network.
 
 ## Children
 
